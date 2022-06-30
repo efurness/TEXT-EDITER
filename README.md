@@ -21,9 +21,9 @@ This is a single-page application using an `IndexedDB API` with ability to run l
 
 ## DEPLOYED TO
 
-[TECH BLOG Site - GitHub] (https://github.com/efurness/TEXT-EDITOR.git)
+[TECH BLOG Site - GitHub] (https://github.com/efurness/TEXT-EDITER.git)
 
-[TECH BLOG Site - HEROKU] (https://git.heroku.com/shrouded-plateau-24724.git)
+[TECH BLOG Site - HEROKU] (https://shrouded-plateau-24724.herokuapp.com/)
 
 # INSTALLATION 
 
